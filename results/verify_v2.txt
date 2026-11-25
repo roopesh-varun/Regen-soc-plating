@@ -1,0 +1,9 @@
+V1  PASS  1C for 600 s from 50%: SoC 0.666667 vs Coulomb count 0.666667 (difference 5.8e-07)
+V2  PASS  max |phi MATLAB - phi Python| = 0.042 mV
+V3  PASS  lowest anode potential, reduced vs DFN: max difference 3.4 mV over 4 drive profiles
+V4  PASS  regen energy dt 0.2 s vs 0.05 s: 0.20 % difference
+V5  PASS  oracle: 0 breaches in 120 pack runs, lowest anode potential 4.4 mV
+V6  PASS  SOP, perfect SoC, one cell: 0 plating breaches in 9 runs (lowest 3.0 mV)
+V7  PASS  regen falls and anode margin rises as the bias goes from -5 % to +5 % (regen 0.320 -> 0.038 kWh)
+V8  PASS  EKF error at end of MIDC: -0.19 % (started at +3 %)
+V9  PASS  braking energy 0.545 kWh = regen 0.472 (at wheel 0.529) + friction 0.016

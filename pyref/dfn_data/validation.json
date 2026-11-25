@@ -1,0 +1,34 @@
+[
+ {
+  "case": "val_HARDSTOP_E3_T10_S92",
+  "rmseV_mV": 12.070537459858256,
+  "rmsePhi_mV": 9.039668510850742,
+  "maxAbsPhi_mV": 29.14564243855566,
+  "minPhiDFN_mV": 1.52958,
+  "minPhiRed_mV": -1.9057104739188016
+ },
+ {
+  "case": "val_HARDSTOP_E3_T25_S80",
+  "rmseV_mV": 5.380951564060134,
+  "rmsePhi_mV": 6.659713065596293,
+  "maxAbsPhi_mV": 21.23117241437661,
+  "minPhiDFN_mV": 38.044399999999996,
+  "minPhiRed_mV": 35.28741954888529
+ },
+ {
+  "case": "val_hill95_bias+0_T25_S90",
+  "rmseV_mV": 1.379317762777892,
+  "rmsePhi_mV": 0.47774550589312287,
+  "maxAbsPhi_mV": 3.170237628241923,
+  "minPhiDFN_mV": 54.842099999999995,
+  "minPhiRed_mV": 55.01239544428209
+ },
+ {
+  "case": "val_hill95_bias+0_T10_S75",
+  "rmseV_mV": 1.7291352465522172,
+  "rmsePhi_mV": 0.7009976844091903,
+  "maxAbsPhi_mV": 4.078034434166461,
+  "minPhiDFN_mV": 37.3819,
+  "minPhiRed_mV": 38.4421022326307
+ }
+]

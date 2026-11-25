@@ -1,0 +1,10 @@
+all x0.0
+all x0.5
+all x1.0
+all x2.0
+only cap
+only R
+only kin
+only z
+only T
+policies: SOP,SOPM,ROBUSTA,ORACLE
