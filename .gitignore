@@ -1,0 +1,22 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+*.mex*
+slprj/
+octave-workspace
+
+# Outputs written by the run scripts into the working folder
+/*.png
+/*.mat
+/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
